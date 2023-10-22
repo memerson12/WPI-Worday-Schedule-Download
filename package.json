@@ -1,0 +1,18 @@
+{
+    "name": "workday-extension",
+    "private": true,
+    "version": "0.0.1",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "devDependencies": {
+        "@crxjs/vite-plugin": "^1.0.14",
+        "vite": "^2.9.0"
+    },
+    "dependencies": {
+        "datebook": "^7.0.8"
+    }
+}
