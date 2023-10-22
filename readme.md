@@ -16,10 +16,11 @@ To download your schedule, navigate to the `View My Courses` page or any of your
 
 I have not taken the time to publish this to any of the extension web stores so the extension must be manually added to your browser.
 
-### Download the latest version here
+### [Download the latest version here](https://github.com/memerson12/WPI-Worday-Schedule-Download/releases/latest)
 
 ### Chrome
 
+1. Unzip the latest release
 1. Open the Chrome extensions page
 1. Enable Developer mode in the top right
 1. Click `Load Unpacked` in the top right
