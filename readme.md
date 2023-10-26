@@ -1,8 +1,8 @@
 # WPI Workday Schedule Downloader
 
-Tired of manually adding all of your courses to your calender? This Chrome extension simplifies the process by automatically downloading your Workday course schedule as an .ics file, which can be easily imported into popular calendar applications like iCalendar, Outlook, and Google Calendar.
+Tired of manually adding all of your courses to your calendar? This Chrome extension simplifies the process by automatically downloading your Workday course schedule as an .ics file, which can be easily imported into popular calendar applications like iCalendar, Outlook, and Google Calendar.
 
-**Note**: T**his extension has only been tested in Chrome** as such may not work in other browsers.
+**Note**: **This extension has only been tested in Chrome** as such may not work in other browsers.
 
 ## Disclaimer
 
@@ -21,11 +21,11 @@ I have not taken the time to publish this to any of the extension web stores so 
 ### Chrome
 
 1. Unzip the latest release
-1. Open the Chrome extensions page
-1. Enable Developer mode in the top right
-1. Click `Load Unpacked` in the top right
-1. Navigate to where you downloaded the extension and select it
-1. You should be good to go!
+2. Open the Chrome extensions page
+3. Enable Developer mode in the top right
+4. Click `Load Unpacked` in the top right
+5. Navigate to where you downloaded the extension and select it
+6. You should be good to go!
 
 If you need more help please reference [this](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked_) page from the Chrome docs.
 
